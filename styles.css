@@ -1,6 +1,7 @@
 
 * {
 	scroll-behavior: smooth;
+	width: 100%;
 }
 
 .correct-answer {
@@ -11,7 +12,7 @@ body {
 	background-color: #DFE6DA;
 	font-family: Tahoma, sans-serif;
 	text-align: center;
-	width: 100%
+	width: 100%;
 }
 
 main {
