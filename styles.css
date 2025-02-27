@@ -1,7 +1,6 @@
 
 * {
 	scroll-behavior: smooth;
-	width: 100%;
 }
 
 .correct-answer {
@@ -13,12 +12,12 @@ body {
 	font-family: Tahoma, sans-serif;
 	text-align: center;
 	width: 100%;
+	margin: 0;
 }
 
 main {
 	padding-top: 55px;
 	color: #758457;
-	width: 100%;
 }
 
 img {
